@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Dota 2 Map Summary",
+    "description": "Creates Dota 2 map summary based on GRID API",
+    "image": "https://api.builder.io/api/v1/image/assets/TEMP/d93b5aef0fc9f6a4db0b18f8a8b6872858b72303?width=556",
+    "link": "",
+    "git": "https://github.com/akim-ruslanov/dota2_map_summary"
+  },
+  {
+    "title": "Game of Life",
+    "description": "Conways game of life done in react",
+    "image": "https://api.builder.io/api/v1/image/assets/TEMP/d93b5aef0fc9f6a4db0b18f8a8b6872858b72303?width=556",
+    "link": "",
+    "git": "https://github.com/akim-ruslanov/game-of-life"
+  },
+  {
+    "title": "Apple Reminders Clone",
+    "description": "Apple Reminders redone in React",
+    "image": "https://api.builder.io/api/v1/image/assets/TEMP/d93b5aef0fc9f6a4db0b18f8a8b6872858b72303?width=556",
+    "link": "",
+    "git": ""
+  },
+  {
+    "title": ""
+  }
+]
